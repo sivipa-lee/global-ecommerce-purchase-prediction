@@ -67,7 +67,3 @@ jupyter notebook global_ecommerce_purchase_prediction.ipynb
 ├── requirements.txt                            # Python dependencies
 └── README.md                                   # Project overview
 ```
-
-## Author
-
-Sivipa Lee
