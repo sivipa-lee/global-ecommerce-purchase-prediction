@@ -1,0 +1,17 @@
+# Data files and model artifacts
+*.csv
+*.parquet
+*.pkl
+*.joblib
+*.h5
+
+# Python and Jupyter files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
